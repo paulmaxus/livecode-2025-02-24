@@ -1,6 +1,7 @@
 __pycache__/
 .jupyter/
 .ipynb_checkpoints/
+*.jupyterlab-workspace
 
 .env
 .venv
